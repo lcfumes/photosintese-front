@@ -5,3 +5,4 @@ npm-debug.log
 coverage/
 config.dev.json
 test.xml
+.DS_Store

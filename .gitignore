@@ -1,0 +1,7 @@
+dist/
+dist.tgz
+node_modules/
+npm-debug.log
+coverage/
+config.dev.json
+test.xml
